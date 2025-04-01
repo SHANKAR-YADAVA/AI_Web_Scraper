@@ -28,13 +28,9 @@ git clone <YOUR_GITHUB_REPO_LINK>
 cd <YOUR_PROJECT_FOLDER>
 2️⃣ Install Dependencies
 bash
-Copy
-Edit
 pip install -r requirements.txt
 3️⃣ Run the Streamlit App
 bash
-Copy
-Edit
 streamlit run app.py
 ⚡ Usage
 Open the Streamlit UI in your browser.
