@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 2️⃣ Run the Streamlit App
 
-streamlit run app.py
+streamlit run main.py
 
 ⚡ Usage
 Open the Streamlit UI in your browser.
