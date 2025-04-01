@@ -20,18 +20,14 @@ Streamlit (Frontend)
 Chromebrowser.exe (For execution)
 
 🚀 Installation & Setup
-1️⃣ Clone the Repository
-bash
-Copy
-Edit
-git clone <YOUR_GITHUB_REPO_LINK>
-cd <YOUR_PROJECT_FOLDER>
-2️⃣ Install Dependencies
-bash
+1️⃣ Install Dependencies
+
 pip install -r requirements.txt
-3️⃣ Run the Streamlit App
-bash
+
+2️⃣ Run the Streamlit App
+
 streamlit run app.py
+
 ⚡ Usage
 Open the Streamlit UI in your browser.
 
